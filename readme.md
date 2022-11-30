@@ -1,10 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p><a href="https://www.facebook.com/groups/fullstackwebdevelopment/" rel="nofollow">Facebook Group |</a>
-<a href="https://plus.google.com/u/0/communities/113464467764075060760" rel="nofollow">Google Plus |</a>
-<a href="https://www.youtube.com/channel/UCqba1eUmmSCal1DbdaHONZA" rel="nofollow">Youtube  |</a>
-<a href="http://www.sumon-it.com" rel="nofollow">Web Site |</a>
-<a href="https://www.facebook.com/csesumonpro" rel="nofollow">Like Us</a></p>
+
 
 # About Laravel vue js Blog Project
 
